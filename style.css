@@ -5,6 +5,10 @@
   --color-btn-bg-no: #ff6d53;
   --color-btn-bg-yes: #ff428a;
 }
+@font-face {
+  font-family: lepka-webfont;
+  src: url("font/lepka-webfont.woff") format("woff");
+}
 
 body {
   display: flex;
