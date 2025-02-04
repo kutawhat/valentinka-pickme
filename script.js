@@ -28,5 +28,6 @@ yesButton.addEventListener('click', () => {
 
 noButton.addEventListener('click', () => {
     noButton.style.display = 'none';
+    yesButton.textContent = 'Выбора нет!';
 });
 
