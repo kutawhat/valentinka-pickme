@@ -6,8 +6,8 @@
   --color-btn-bg-yes: #ff428a;
 }
 @font-face {
-  font-family: lepka-webfont;
-  src: url("font/lepka-webfont.woff") format("woff");
+  font-family: Lepka;
+  src: url("font/LEPKA.otf");
 }
 
 body {
